@@ -1,6 +1,12 @@
-## License
-This repository, including the architecture code and trained model weights, is licensed under **GNU AGPLv3**.
+## ⚖️ License & Commercial Usage
 
-- Free for academic and non-commercial research.
-- Any derivatives or fine-tuned versions must also remain under AGPLv3.
-- For commercial licensing, enterprise deployment, or partnership, please reach out via my **[Semih-S](https://github.com/Semih-S)(https://www.linkedin.com/in/semihsarisoy)
+This model's weights are licensed under the *Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)* license.
+
+* *Free Use:* Individuals, hobbyists, and academic researchers are completely free to download, run, modify, and build upon this model.
+* *Commercial Use:* Any commercial deployment, monetization, or integration into business applications is strictly prohibited under this license.
+
+### 💼 Commercial Licensing & Enterprise Support
+If you are a company or enterprise looking to use this model commercially, you must acquire a separate, custom commercial license. 
+
+To inquire about commercial licensing terms, custom fine-tuning, or production permissions, please contact:
+*https://www.linkedin.com/in/semihsarisoy*
